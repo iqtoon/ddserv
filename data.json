@@ -1,6 +1,9 @@
 {
-  "usd": 1535.00,
+  "current": 1533.00,
+  "past": 1535.00,
   "extra": 500,
-  "gold": 2150,
-  "trend": "up"
+  "code": 115,
+  "fore-update": false,
+  "ads-state": 1,
+  
 }
